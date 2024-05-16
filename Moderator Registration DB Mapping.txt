@@ -1,3 +1,39 @@
 // I will compile all suggested Moderator registration database mapping here 
-ayie
-rhea
+
+Data Mapping - Rhea
+
+Moderator			
+first_name:			
+last_name			
+staff_number			
+email			
+password			
+avatar			
+access_lvl			
+location			
+status (active or inactive)			
+activity 	message_id	profile id	"created
+isReviewed
+isForwarded"
+logs	"last_login / online
+last_activity
+last_message_sent"		
+
+Profile			
+first_name			
+last_name			
+password			
+email			
+email_verified			
+mobile_number			
+location			
+civil_status			
+status (single, engaged, removed)			
+occupation			
+access_lvl			
+logs	"last_login / online
+last_reply
+"		
+correspondents (male senders)	message_id	time_received	
+		attachments 	"video
+images"
