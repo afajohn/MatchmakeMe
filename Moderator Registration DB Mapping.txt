@@ -37,3 +37,43 @@ last_reply
 correspondents (male senders)	message_id	time_received	
 		attachments 	"video
 images"
+
+-----------------------
+DATA MAPPING OF Ayie
+-----------------------
+Moderator:
+
+DATA TYPE
+
+email: String
+username: String
+pw: encrypted
+re-enter pw: encypted
+
+...continued fields for moderator this can be done by updating profile or having an alert message to update their profile
+fname: String
+lname: String
+
+Women's Profile
+
+fname: String
+lname: String
+username: String
+email: string
+pw: encrypted
+re-enter pw: encypted
+
+...continued fields for womens profile this can be done by updating profile or having an alert message to update their profile
+dob: Date
+age(it can be calculated from DOB): Numerical
+address: String
+phone number: Numeric
+civil Status: String
+mname(optional): String
+education: String
+religion: String
+children: numeric/String
+
+
+
+
